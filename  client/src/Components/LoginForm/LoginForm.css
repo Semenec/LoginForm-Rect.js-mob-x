@@ -1,0 +1,24 @@
+.LoginForm_container {
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+.LoginForm__input {
+  border-radius: 5px;
+  border: 1px solid #333;
+  padding: 10px 10px 5px 5px;
+  margin: 10px 0;
+  font-size: 18px;
+}
+.LoginFormButton {
+  background-color: #fff;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: 1px solid #999;
+  font-size: 18px;
+  color: blue
+}
